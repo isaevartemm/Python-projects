@@ -94,8 +94,6 @@ class Session:
             self.save_game()
 
 
-
-
 s1 = Session(30)
 s1.play()
 
